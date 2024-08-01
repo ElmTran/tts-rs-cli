@@ -1,0 +1,7 @@
+/target
+.env
+.vscode
+assets/audio
+config.toml
+conf.toml
+Cargo.lock
